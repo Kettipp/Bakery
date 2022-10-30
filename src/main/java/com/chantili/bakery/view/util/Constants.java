@@ -9,5 +9,6 @@ public class Constants {
             3.Put product.
             4.Exit.
             """;
-    public static final String EXIT = "4";
+    public static final String BYE = "Poka dibil";
+    public static final String WRONG_COMMAND = "Ne buvae takogo";
 }
